@@ -14,13 +14,13 @@ assignees: ''
 
 
 **System Details**
- - Signal version: [e.g. 1.2.3]
+ - Signal version: 
  - OS: [e.g. Arch Linux, Debian 12]
- - Desktop: [e.g. KDE, i3]
- - Package format:
+ - Desktop: [e.g. KDE]
+ - Packaging type:
     - [ ] Flatpak from repo
-    - [ ] Flatpak bundle
-    - [ ] other
+    - [ ] Flatpak bundle 
+    - [ ] .deb file
  - Platform:
     - [ ] x86_64
     - [ ] arm64
